@@ -1,36 +1,34 @@
 # Decision Logic Lab
 
-**Engineering robust decisions under uncertainty**  
-**Constraints > Ideas · Robustness > Performance · Reasoning > Prediction**
+Engineering robust decisions under uncertainty  
 
-This is a personal research log — not a product, not a framework, not a library, not a tutorial, not advice.
+Constraints > Ideas · Robustness > Performance · Reasoning > Prediction  
 
-Here I document real decision-making processes under hard constraints, uncertainty, trade-offs, and system degradation.  
-No universal recipes. No "best practices". No templates to copy-paste.
+This is a personal research log. Not a product. Not a framework. Not a library. Not a tutorial. Not advice.  
 
-If after reading you think  
+Here I document decision-making under constraints, uncertainty, trade-offs, and system degradation.  
+
+No recipes. No best practices. No templates.  
+
+If after reading you think:  
 “Now I know how to build this”  
-— the format has failed.
+— the format has failed.  
 
-### Core Manifesto
-→ [MANIFESTO.md](./MANIFESTO.md) — the single source of truth for the lab's principles, scope, boundaries, and responsibility model
+## YouTube  
+Applied breakdowns of decision systems under real-world pressure.  
+Decision Logic Lab  
 
-### YouTube Channel
-Applied breakdowns of decision systems under real-world pressure — not lab demos, not metrics porn, but where assumptions break and why.  
-[Decision Logic Lab](https://www.youtube.com/@system-logic-omega)
+## Current experiments  
+forex-bot-research — adaptive decision system in non-stationary environment (first playlist artifact)  
 
-### Current Experiments (separate repositories)
-- [forex-bot-research](https://github.com/system-logic/forex-bot-research) — adaptive decision system in non-stationary environment (first playlist artifact)  
-- [quant-project](https://github.com/system-logic/quant-project) — DC-DC converter optimization under computational constraints  
+## Support  
+Boosty: https://boosty.to/evz-tech/donate  
+Crypto (USDT TRC20): TJaUpMTcgNjDjrPtW394FXr3a3Zdmd8agd 
 
-New experiments get their own repositories as needed.
+## Responsibility  
+Understanding the structure does not grant permission to apply it.  
+Every example lives in its original context.  
+Using anything here transfers full responsibility to you.  
 
-### Responsibility Boundary
-Understanding the structure does **not** grant permission to apply it.  
-Every example lives only in its original context.  
-Using anything here in your own system transfers **full responsibility** to you.
-
-In the age of AI, building complex systems has become shockingly easy.  
+In the age of AI, building complex systems is easy.  
 Making them robust remains hard.
-
-That's what this lab is about.
