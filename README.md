@@ -21,10 +21,6 @@ Decision Logic Lab
 ## Current experiments  
 forex-bot-research — adaptive decision system in non-stationary environment (first playlist artifact)  
 
-## Support  
-Boosty: https://boosty.to/evz-tech/donate  
-Crypto (USDT TRC20): TJaUpMTcgNjDjrPtW394FXr3a3Zdmd8agd 
-
 ## Responsibility  
 Understanding the structure does not grant permission to apply it.  
 Every example lives in its original context.  
