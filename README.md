@@ -30,7 +30,7 @@ What every experiment records, in this order: the constraints and the starting p
 
 ## YouTube  
 Applied breakdowns of decision systems under real-world pressure.  
-Decision Logic Lab  
+[Decision Logic Lab](https://www.youtube.com/channel/UCWOWanUk09jwCybs0VZSIqg)  
 
 ## Responsibility  
 Understanding the structure does not grant permission to apply it.  
